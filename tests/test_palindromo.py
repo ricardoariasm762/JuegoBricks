@@ -43,7 +43,7 @@ def test_is_palindrome(input_str, expected):
     [
         ("hola", 2),
         ("PYTHON", 1),
-        ("murciélago", 5),
+        ("murcielago", 5),
         ("", 0),
         ("bcdfg", 0),  # Sin vocales
     ],
